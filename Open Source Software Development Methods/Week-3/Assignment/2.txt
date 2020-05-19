@@ -1,0 +1,5 @@
+Method 1:
+In order to attract more new contributors to an OSS project, the leader of the project must be able to give proper returns in terms of mentoring, for the contributions the new comers make. The leader(mentor) should show more promise in the project in order to attract new contributors. For example, if a new contributor makes a small suggestion for the project, the leader should give constructive criticism and mentor the new comer on how to correct his mistake and make sure they do not do any mistake in the future.
+
+Method 2:
+The second method I would like to suggest is to make sure the project members are diverse in all forms. This includes people of all races, religion, ethnicity, etc. As well as people from different knowledge backgrounds. This will help the project to be more global and this will enhance the capability of the project to succeed, since it includes thoughts and ideas of a mix of different people.
